@@ -1,0 +1,25 @@
+{
+  "name": "koa2-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyh0804/koa2-prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyh0804/koa2-prac/issues"
+  },
+  "homepage": "https://github.com/liyh0804/koa2-prac#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
