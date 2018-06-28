@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/liyh0804/koa2-prac#readme",
   "dependencies": {
-    "koa": "^2.5.1"
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
   }
 }
