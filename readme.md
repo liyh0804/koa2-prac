@@ -12,3 +12,15 @@
 4、性能
     nunjucks使用同步IO读取模版文件（Nunjucks会缓存以读取的文件内容，只需要配置noCache: false）
     开发环境关闭cache，生产环境打开cache
+
+
+MVC:
+1.controllers
+
+2.views
+
+3.static 
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+    koa中编写一个middleware，处理/static/开头的URL
+    （1）创建一个static-file.js，处理静态文件的middleware
+    
